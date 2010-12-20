@@ -1,0 +1,9 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/POE/Component/Client/Xymon.pm
+t/00-load.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
